@@ -1,0 +1,1 @@
+Implementation of the BFS algorithm using Map-Reduce based on Spark. 
